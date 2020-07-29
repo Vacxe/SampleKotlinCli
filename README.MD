@@ -5,7 +5,7 @@
 
 ### Sample of use
 Call `samplekotlincli 2 2`
-result `Summ of 2 and 2 equals 4`
+result `Sum of 2 and 2 equals 4`
 
 ### Can be download with brew
 `brew install vacxe/samplekotlincli`
