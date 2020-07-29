@@ -1,4 +1,4 @@
-#Sample of kotlin CLI tool
+# Sample of kotlin CLI tool
 
 ### To compile binary
 - `./gradlew distZip`
