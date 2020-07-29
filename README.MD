@@ -8,7 +8,7 @@ Call `samplekotlincli 2 2`
 result `Sum of 2 and 2 equals 4`
 
 ### Can be download with brew
-`brew install vacxe/samplekotlincli`
+`brew install vacxe/tap/samplekotlincli`
 
 Brew config can be reviewed [here](https://github.com/Vacxe/homebrew-tap/tree/master/Formula/samplekotlincli.rb)
 
